@@ -9,3 +9,8 @@
 - git status // Permet de suivre les modifications éffectuées sur le projet en local
 - git log // Permet de voire les anciens commits envoyés
 
+# Travail équipe
+
+- git branch // affiche les branches (chemin) créée
+- git branch nom de la branch // créee une branche avec un nom 
+- git checkout nom de la branch // Change de branche
